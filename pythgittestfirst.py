@@ -8,4 +8,7 @@ s={1,2,321}
 d={1:'a',2:'b',3:'c'}
 l=[ i for i in range(1,10)]
 
+kl='farah khan'
+jk='hfghf khan'
+
 
